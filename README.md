@@ -4,6 +4,8 @@
 
 This Data Analysis aims to provide insights into the sales performance of a Superstore. By analysing the data, we aim to provide insights and make data-driven recommendations in order to boost the sales of the store
 
+![SUPERSALE PHOTO](https://github.com/AminaUmar6779/AminaUmar/assets/153962997/5fcfffce-ed06-4cef-9b45-278466cb3a2e)
+
 ### Data Sources
 
 Supermarket Sales Data: The Dataset used for the Analysis is the "supermarket sales dataset" containing each sales made by the store
@@ -38,8 +40,6 @@ What is the total profit?
 
 What is the total Profit across the various regions?
 
-When is the sales peak period?
-
 ## Data Analysis
 
 ## Results and findings
@@ -54,4 +54,9 @@ Consumer segment has the made the highest profit compared to coperate and home o
 ## Recommendations
 The company should develop more marketing strategies to get more customers in the South and Central region were sales are really low
 
-The company should improve the shipping modes or change the shipping company 
+The Supermarket should introduce more products and try and expand the market 
+
+## Limitations
+I had to handle missing values and outliers
+
+
